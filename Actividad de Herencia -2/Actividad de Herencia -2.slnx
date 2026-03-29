@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Actividad de Herencia -2/HerenciaPersona.csproj" />
+  <Project Path="HerenciaEmpleado/HerenciaEmpleado.csproj" />
+  <Project Path="HerenciaFigura/HerenciaFigura.csproj" />
+  <Project Path="HerenciaPato/HerenciaPato.csproj" />
+  <Project Path="HerenciaVehículo/HerenciaVehículo.csproj" />
+</Solution>
